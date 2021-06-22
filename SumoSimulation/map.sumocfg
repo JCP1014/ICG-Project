@@ -1,0 +1,8 @@
+﻿<configuration>
+     <input>
+         <net-file value="map.net.xml"/> 		
+         <additional-files value="map.poly.xml,type.add.xml"/>
+         <route-files value="map2.rou.xml"/>
+         <gui-settings-file value="map.view.xml"/>
+     </input>
+ </configuration>
