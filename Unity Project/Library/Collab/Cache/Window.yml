@@ -24,7 +24,7 @@ MonoBehaviour:
     - Assets/Tree9/bark14.mat
     - Assets/Tree9/tree9.unity
     - 
-    m_Values: 01010101010101010101
+    m_Values: 00000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
