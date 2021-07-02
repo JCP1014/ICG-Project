@@ -1,0 +1,6 @@
+<additional>
+    <vType id="typeA" guiShape="passenger" color="yellow"/>
+    <vType id="typeB" vClass="emergency" guiShape="police"/>
+    <vType id="human" vClass="pedestrian" guiShape="pedestrian" width="1" length="2" color="magenta"/>
+    <vType id="block" guiShape="bicycle" width="1" length="2" color="red"/>
+</additional>

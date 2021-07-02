@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Traci_one.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Traci_one.cs" Line="162" Column="1" />
+      <File FileName="Assets/Scripts/ControlCanvas.cs" />
+      <File FileName="Assets/Scripts/DisplayInfo.cs" />
+      <File FileName="Assets/Scripts/DisplayDashboard.cs" />
+      <File FileName="Assets/Scripts/WheelDrive.cs" />
+      <File FileName="Assets/Vehicles/Scripts/EasySuspension.cs" />
+      <File FileName="Assets/Logitech SDK/LogitechGSDK.cs" />
+      <File FileName="Assets/Standard Assets/Vehicles/Car/Scripts/CarController.cs" Line="17" Column="6" />
+      <File FileName="Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs" />
+      <File FileName="Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Logitech SDK" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Traci_one.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Vehicles" expanded="True">
+                  <Node name="Car" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Vehicles" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fedab9c-606c-4731-937e-519427fbcf5f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
